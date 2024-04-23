@@ -1,2 +1,2 @@
-#Demo
-Git Tuts
+# Demo
+Git Tutorial basic
